@@ -18,7 +18,6 @@
 	int filas=0;
 	try {
 		Class.forName("com.mysql.jdbc.Driver");
-		System.out.println("2 que tal");
 		//	Conexion: a la BD	
 		conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/arquitecturajava", "root", "");
 		//	Setencia: para insertar en la BD
