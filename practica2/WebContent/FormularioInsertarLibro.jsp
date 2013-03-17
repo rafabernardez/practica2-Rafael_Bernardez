@@ -1,11 +1,10 @@
-<%@ page language="java" contentType="text/html; charset=US-ASCII"
-    pageEncoding="US-ASCII"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
 	<head>
 		<title>Formulario Libro</title>
-		<meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="css/formato.css" />
 		<script type="text/javascript" src="js/validacion.js"></script>
 	</head>
